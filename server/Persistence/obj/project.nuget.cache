@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZaSr8dELkr/zCirbRDhyhvmfeEd4ZtBk/RNxqH5FtP5mYfovFjN/myu44ycEZcYg2BC2G1Kc3ZG6EpFmupu8Gg==",
+  "dgSpecHash": "8C++L94hsxk/WzFw18CIEeKHDOeBUS31lBQSf3mI7cRF7/a2LNUMZDUCRO8fbjPMmfspH3f+eZFPoiAZmh3GhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

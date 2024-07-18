@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E1EFjPmR04nyrUdu9DnQq48R/WAIHDvcxxgh7OhXNvOdBs2g+f7wDpbSFD2KuUSpz98ip7yXp9FHs5eW2juhCA==",
+  "dgSpecHash": "ofqioS0vRzCZCL9OIr5V8tuE7Q9x4ZBCJymtdUwecNj/wk4n7HMp0E93C5MP1BT0M9ylM5Wnzt7r0pizdeP9VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lgarc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lgarc\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

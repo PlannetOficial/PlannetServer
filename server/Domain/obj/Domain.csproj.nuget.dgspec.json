@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj": {}
+    "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj": {
+    "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\lgarc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",

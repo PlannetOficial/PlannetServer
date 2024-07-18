@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kGfbRqlqAu5uQmawgLK50Cy0xO2+yCWj+71NdzoR2kRbTkulPTkpaAzCfsJsyZqCbi9JT/MVMyHOP6LhTPUmQ==",
+  "dgSpecHash": "6QBVkSE3KTHbvB3ShZLNV1j0N8YcUcMtJb5IgQd/NvMsYzvMf8QhjJTInkBsnP/UAYkd1U1v2pj0hiv0Yvfamw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lgarc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lgarc\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

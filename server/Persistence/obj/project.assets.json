@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\lgarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",

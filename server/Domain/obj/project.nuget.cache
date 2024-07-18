@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OZPkOnBm88PtKfhWN4GGpPkckq0u5NYoaEQeFFjtCoPjM6KY0y9CYYKlci92o69025+igXTdyLikXp4nUAegaw==",
+  "dgSpecHash": "e98/8V3YtEN9TNlhssm8ntFqbq15T8xEeZskD7+tzZIz6KGQp2pYkMi9LnYyoxrGVQjGDFGOSyR+3OQk+wVN5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PLANNET\\Proyecto\\PlannetServer\\PlannetServer\\server\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lgarc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
   ],
