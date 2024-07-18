@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZPkOnBm88PtKfhWN4GGpPkckq0u5NYoaEQeFFjtCoPjM6KY0y9CYYKlci92o69025+igXTdyLikXp4nUAegaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgarc\\source\\repos\\PlannetServer\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgarc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
