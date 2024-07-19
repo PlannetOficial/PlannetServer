@@ -1,7 +1,6 @@
 ﻿using FluentValidation;
-using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
-using MediatR;
+using System.Reflection;
 
 namespace Application
 {
@@ -10,8 +9,8 @@ namespace Application
         public static void AddApplicationLayer(this IServiceCollection services)
         {
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
-            services.AddValidatorsFromAssemblyContaining<ApplicationAssemblyReference>();
-            services.AddMediatR(config => config.RegisterServicesFromAssemblyContaining<ApplicationAssemblyReference>());
+            services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());    
+            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(ServiceExtensions).Assembly));
         }
     }
 }
