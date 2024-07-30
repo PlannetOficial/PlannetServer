@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlannetServer.Api</name>
+    </assembly>
+    <members>
+        <member name="M:PlannetServer.Api.Controllers.OrdersController.Put(System.Guid,PlannetServer.Application.Commands.UpdateOrder)">
+            <summary>
+            Updates the details of a specific order.
+            </summary>
+            <response code="204">The HTTP `204 [No Content]` response code indicates that the server successfully processed the request and is not returning any content.</response>
+            <response code="400">The HTTP `400 [Bad Request]` response code indicates that the server cannot or will not process the request due to something that is perceived to be a client error.</response>
+            <response code="404">The HTTP `404 [Not Found]` response code indicates that the server can not find the requested resource.</response>
+        </member>
+        <member name="M:PlannetServer.Api.Controllers.PostsController.Get(PlannetServer.Application.Queries.Posts.GetPostQuery)">
+            <summary>
+            Returns a list of orders.
+            </summary>
+            <response code="200">Returns a list containing all orders.</response>
+            <response code="400">The HTTP `400 [Bad Request]` response code indicates that the server cannot or will not process the request due to something that is perceived to be a client error.</response>
+            <response code="404">The HTTP `404 [Not Found]` response code indicates that the server can not find the requested resource.</response>
+        </member>
+    </members>
+</doc>

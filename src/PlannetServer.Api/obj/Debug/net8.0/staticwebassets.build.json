@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7vewKjWcq3ms8zZ5yaWwZ47xb+nTOEsa4AgdP/4jnEg=",
+  "Source": "PlannetServer.Api",
+  "BasePath": "_content/PlannetServer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

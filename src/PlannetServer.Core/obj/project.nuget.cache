@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wWLJYiWnWtcAtv0vRDwO4q5Y5WPUWHledz8wt8BNsn8HTp76d5rqGkXhSvBPz+6JAKuFVxaxmYtUKPrQ5eUkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PROYECTO PLANNET\\PlannetServer\\src\\PlannetServer.Core\\PlannetServer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgarc\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\nettopologysuite\\2.2.0\\nettopologysuite.2.2.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\sharpproj.core\\9.4001.281\\sharpproj.core.9.4001.281.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\sharpproj.nettopologysuite\\9.4001.281\\sharpproj.nettopologysuite.9.4001.281.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SharpProj.NetTopologySuite 9.4001.281' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SharpProj.NetTopologySuite",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

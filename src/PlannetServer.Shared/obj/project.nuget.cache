@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyzdLCH+UtVuAGQ+tqCJTSX/OYbhl6gVPBzyEACJgUd5PxfBa0hK2Vt2iFgaHg/Y4E3VUx/OVp7ViyDT+SSK5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgarc\\Desktop\\PROYECTO PLANNET\\PlannetServer\\src\\PlannetServer.Shared\\PlannetServer.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgarc\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\lgarc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

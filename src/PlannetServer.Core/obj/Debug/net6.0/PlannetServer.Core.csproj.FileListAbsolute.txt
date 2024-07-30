@@ -1,0 +1,15 @@
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\bin\Debug\net6.0\PlannetServer.Core.deps.json
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\bin\Debug\net6.0\PlannetServer.Core.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\bin\Debug\net6.0\PlannetServer.Core.pdb
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\bin\Debug\net6.0\PlannetServer.Shared.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\bin\Debug\net6.0\PlannetServer.Shared.pdb
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.csproj.AssemblyReference.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.AssemblyInfoInputs.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.AssemblyInfo.cs
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.csproj.CopyComplete
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\refint\PlannetServer.Core.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\PlannetServer.Core.pdb
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Core\obj\Debug\net6.0\ref\PlannetServer.Core.dll

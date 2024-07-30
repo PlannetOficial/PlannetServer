@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\PlannetServer.Shared/PlannetServer.Shared.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Aggregates\Promotions\Events\" />
+		<Folder Include="Events\Users\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="SharpProj.NetTopologySuite" Version="9.4001.281" />
+	</ItemGroup>
+
+</Project>

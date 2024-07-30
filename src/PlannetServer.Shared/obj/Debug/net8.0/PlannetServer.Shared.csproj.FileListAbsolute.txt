@@ -1,0 +1,12 @@
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\bin\Debug\net8.0\PlannetServer.Shared.deps.json
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\bin\Debug\net8.0\PlannetServer.Shared.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\bin\Debug\net8.0\PlannetServer.Shared.pdb
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.csproj.AssemblyReference.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.AssemblyInfoInputs.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.AssemblyInfo.cs
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\refint\PlannetServer.Shared.dll
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\PlannetServer.Shared.pdb
+C:\Users\lgarc\Desktop\PROYECTO PLANNET\PlannetServer\src\PlannetServer.Shared\obj\Debug\net8.0\ref\PlannetServer.Shared.dll
